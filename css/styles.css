@@ -1,0 +1,117 @@
+body{
+  color: #40514E;
+}
+
+hr {
+  margin: 50px auto;
+  width: 5%;
+  border: dotted #EAF6F6 6px;
+  border-bottom : none;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-weight: bold;
+  margin: 50px auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  margin: 30px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+/* Top Container */
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  padding: 15px;
+  background-color: #e4f9f5;
+  margin-bottom: 30px;
+  text-align: center;
+  position: relative;
+}
+
+.header-img{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+
+.profile-img {
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  margin: 10px;
+}
+
+
+/* Middle Container */
+
+.middle-container {
+  text-align: center;
+}
+
+.work-experience, .projects-handled, .roles, .academic, .awards {
+  width: 60%;
+  margin: auto;
+}
+
+.content-table {
+  margin-top: 50px;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 100px auto 50px auto;
+  text-align: left;
+}
+
+.skills-img {
+  width: 70px;
+  height: 70px;
+  float: right;
+  margin-right: 30px;
+}
+
+/* Bottom Container */
+
+.bottom-container {
+  text-align: center;
+  background-color: #66BFBF;
+  padding: 20px;
+}
+
+.bottom-container p{
+  color: #fff;
+}
+
+.bottom-container a{
+  color: #fff;
+  padding: 10px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75em;
+  padding: 20px 0;
+}
