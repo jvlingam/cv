@@ -29,6 +29,10 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
 }
+
+td {
+  text-align: left;
+}
 /* Top Container */
 
 .bottom-cloud {
@@ -71,7 +75,7 @@ h3 {
   text-align: center;
 }
 
-.work-experience, .projects-handled, .roles, .academic, .awards {
+.work-experience, .projects-handled, .roles, .academic, .awards, .contact {
   width: 60%;
   margin: auto;
 }
@@ -99,6 +103,7 @@ h3 {
   text-align: center;
   background-color: #66BFBF;
   padding: 20px;
+  margin-top: 50px;
 }
 
 .bottom-container p{
